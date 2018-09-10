@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "goodcheck/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "goodcheck"
+  spec.name          = "goodcheckr"
   spec.version       = Goodcheck::VERSION
   spec.authors       = ["Soutaro Matsumoto"]
   spec.email         = ["matsumoto@soutaro.com"]
